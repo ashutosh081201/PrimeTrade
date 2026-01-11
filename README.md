@@ -2,6 +2,7 @@
 # Note-Taking App
 
 A This is a modern, responsive note-taking application built with the MERN stack (MongoDB, Express, React, Node.js). It provides a seamless and intuitive user experience for creating, managing, and organizing your notes.
+
 [![Dashboard-Project.png](https://i.postimg.cc/NGH7TdmM/Dashboard-Project.png)](https://postimg.cc/mhTHWNdf)
 [![project_Login.png](https://i.postimg.cc/0jwfyfd5/project_Login.png)](https://postimg.cc/p5P80K63)
 
@@ -49,7 +50,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repo:**
     ```sh
-    git clone https://github.com/your_username/your_project_name.git
+    git clone https://github.com/ashutosh081201/PrimeTrade.git
     ```
 2.  **Install backend dependencies:**
     ```sh
